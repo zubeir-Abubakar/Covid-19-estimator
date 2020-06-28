@@ -11,7 +11,7 @@ body{
     border: 1px solid #eee;
     padding: 10px;
     box-sizing: border-box;
-    color: ;
+    color: skyblue;
   }
   
   @media (min-width: 600px) {
